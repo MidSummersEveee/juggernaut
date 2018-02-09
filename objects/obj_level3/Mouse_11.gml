@@ -1,0 +1,1 @@
+sprite_set_offset(spr_level3, 0, 0);

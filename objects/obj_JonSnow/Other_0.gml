@@ -1,0 +1,1 @@
+obj_controller.mark2=0;

@@ -1,0 +1,1 @@
+sword_level_up=false;

@@ -1,0 +1,31 @@
+{
+    "id": "b64c24a9-2f13-4d6b-b453-87aa37ead04a",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "b64c24a9-2f13-4d6b-b453-87aa37ead04a",
+    "children": [
+        "b3369763-6fbc-4689-8c6e-2bb9fee365ea",
+        "6debe246-d7a7-4c71-8b0d-b9938dd75051",
+        "51727af6-920b-4b37-a1d2-0bc4fa3c1dda",
+        "f55d6946-ea2b-45f0-9392-bad505aafbcf",
+        "f8c5e484-00a1-4f40-bf18-2e9bc84ee8bf",
+        "985daa97-faa3-4b45-ae94-b70d8f221ff0",
+        "4fb8927c-4b4f-4cba-8dbf-f3c37c9096cf",
+        "7a60b609-0854-4013-8808-894ce38d13d3",
+        "425cc3ce-ed51-44c4-9643-2c8ad4b1604b",
+        "608fddf3-a7dc-4ee0-ab82-3ed94b244ec2",
+        "35bc23b3-3754-4c99-883c-4506bfca527d",
+        "e02dca5f-56dd-4007-9fc2-70c648203e11",
+        "b4ba8e33-e5e5-4f92-a181-5675a8fd931b",
+        "bd0924d3-ad8e-4900-aa72-e97d54e6a157",
+        "21b11e9a-e1e0-417f-ac10-9ef9793ac693",
+        "296d2f0c-f9fe-4de1-90d4-49564a114b90",
+        "dd820ffe-b169-4f47-8654-807dd283f579",
+        "12928d51-5ca8-4235-a292-2eeefd8f71d9",
+        "7f2e8af7-6068-46db-9262-676768dc6735"
+    ],
+    "filterType": "GMIncludedFile",
+    "folderName": "spr_JonSnow_Attack_Normal_Left",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

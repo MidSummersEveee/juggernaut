@@ -1,0 +1,30 @@
+{
+    "id": "372078ec-1fdd-49dc-80e1-72a884b55699",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "372078ec-1fdd-49dc-80e1-72a884b55699",
+    "children": [
+        "1fda8432-4594-4183-bfb3-e0f8626ae9f7",
+        "199cee95-3aa0-41a4-9a3c-87f25fbdb8d6",
+        "28bba603-b98f-4c53-9b9a-be4b2ceca4ce",
+        "9a78906c-c863-452d-9fd3-1e857a97d944",
+        "a02827ef-c876-4ecc-b95f-32aa75d2353a",
+        "614485e5-37d4-4367-81cb-0780eb6fab5c",
+        "10697379-4251-49aa-94d2-ac8bdf86f4be",
+        "9dce26f7-6c40-46d3-a6fc-554b659ea350",
+        "601146f6-d760-497a-9437-5ad983b5451f",
+        "b1484060-a667-4280-be7b-c7b91371742e",
+        "d6f93743-076d-4166-9be2-284747fd71c6",
+        "4c4916c5-87bd-4759-b5f4-99cf13e42d77",
+        "0a68ccc0-e718-46ad-ba7c-5e0860467515",
+        "d6c68498-1f52-42d8-aec6-f98b0781b0be",
+        "d46c6816-1882-47e4-ad28-8c60100244ce",
+        "6c875ec8-4dbc-4338-a1c3-293f0e557c38",
+        "d5322d54-170f-454e-b4d1-eb850cc2ecf3",
+        "f1618bd2-06f1-4098-bfb2-9139b8c7177c"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "JonSnow",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

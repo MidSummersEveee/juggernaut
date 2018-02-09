@@ -1,0 +1,1 @@
+healthValue = 100;

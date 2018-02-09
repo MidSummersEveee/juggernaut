@@ -1,0 +1,31 @@
+{
+    "id": "36035ccb-4fb2-4b68-992f-698a37c019c7",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "36035ccb-4fb2-4b68-992f-698a37c019c7",
+    "children": [
+        "78e797bd-f12d-48e2-a527-1b3339597b37",
+        "09b146b3-3d34-4c8a-8904-6f89947a6d69",
+        "1ccd455c-4a90-4491-a4b0-fce401be46b8",
+        "be83609e-b758-468b-b483-76f16e47bfe9",
+        "7f76502c-10a8-49cc-bcc3-44e0285c78f9",
+        "603a3099-3c2d-4667-8e69-fbabc979da09",
+        "e603b913-e60d-4f3f-80ca-a39298960cdd",
+        "251ea4e2-9556-4225-8810-3f3afd433fb1",
+        "b3cf6607-1af8-409d-af81-164fad7a79c5",
+        "fc7c861e-f622-4ab6-b140-cd5aca0008b8",
+        "d1d20f20-766d-4e50-9ad4-49b6e9f12f4f",
+        "3f99abcf-6c9a-48ad-a195-f17a7a9810f5",
+        "c4ecddd7-7c64-41ed-95fe-8164e77988a1",
+        "81a90052-7003-42d9-9508-4ea8c138ea7e",
+        "a46daae0-433b-4966-8ef4-dd8a5a6a47da",
+        "58630448-c175-4cdf-bdeb-244ecd4d53d2",
+        "81e733ba-2cc5-4180-b46a-b4cd4eb73954",
+        "d45fc966-1f3d-46a5-95e2-da6d4581df9b",
+        "2708750d-31f7-4933-ba33-d4c6db5a179e"
+    ],
+    "filterType": "GMIncludedFile",
+    "folderName": "spr_JonSnow_Attack_Super_Right",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

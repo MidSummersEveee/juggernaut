@@ -1,0 +1,1 @@
+sprite_set_offset(spr_credit, 0, 0);

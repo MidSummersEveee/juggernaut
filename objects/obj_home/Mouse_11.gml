@@ -1,0 +1,1 @@
+sprite_set_offset(spr_home, 0, 0);

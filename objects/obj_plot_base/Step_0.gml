@@ -1,0 +1,1 @@
+stringh = string_height(text);

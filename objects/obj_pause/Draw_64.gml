@@ -1,0 +1,1 @@
+draw_sprite(spr_pause,0,x,y);
